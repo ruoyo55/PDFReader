@@ -2,6 +2,7 @@
 title: 日本語
 nav_order: 1
 has_children: true
+has_toc: false
 permalink: /ja/
 ---
 
@@ -20,3 +21,12 @@ VRChatのワールドでPDFを読むためのリーダーです。UnityでPDFを
 
 VRChat内でローカルファイルやURLから新しいPDFを開くことはできません。PDFは事前にUnityでベイクしてワールドに入れてください。
 
+## 目次
+
+1. [導入](install.html)
+2. [PDFを追加する](add-pdf.html)
+3. [リーダーの初期設定](reader-settings.html)
+4. [ワールドでの操作](controls.html)
+5. [よくある質問](faq.html)
+6. [更新履歴](changelog.html)
+7. [利用規約](terms.html)
