@@ -1,12 +1,4 @@
----
-title: Terms of use
-parent: English
-nav_order: 7
----
-
-# Terms of use
-
-These are the same terms included with the product. Text files: [日本語](../assets/terms/PDFReader-Terms-ja.txt) · [English](../assets/terms/PDFReader-Terms-en.txt) · [中文](../assets/terms/PDFReader-Terms-zh.txt) · [한국어](../assets/terms/PDFReader-Terms-ko.txt)
+﻿# PDFReader Terms of Use
 
 This English version is a translation provided for reference. The authoritative version is determined by Section 9.
 

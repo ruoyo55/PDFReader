@@ -9,6 +9,8 @@ permalink: /en/
 
 PDFReader is a reader for PDFs in VRChat worlds. You bake PDFs in Unity (convert them into display data), add them to your world, and read them with a mouse on desktop or a controller laser in VR.
 
+Demo world: <https://vrchat.com/home/world/wrld_0b77585b-65bf-45e9-ac2b-e50005117117>
+
 ## Requirements
 
 - VRChat PC worlds (desktop and PC VR). Android (standalone Quest) and iOS are not supported

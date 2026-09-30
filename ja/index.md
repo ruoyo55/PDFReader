@@ -10,6 +10,8 @@ permalink: /ja/
 
 VRChatのワールドでPDFを読むためのリーダーです。UnityでPDFをベイク（表示用データに変換）してワールドに入れ、PCではマウス、VRではコントローラーのレーザーで読みます。
 
+体験ワールド：<https://vrchat.com/home/world/wrld_0b77585b-65bf-45e9-ac2b-e50005117117>
+
 ## 動作環境
 
 - VRChat PC版のワールド（PCデスクトップ／PC VR）。Android（Quest単体など）・iOSには対応していません

@@ -1,14 +1,4 @@
----
-title: 利用規約
-parent: 日本語
-nav_order: 7
----
-
-# 利用規約
-
-製品に同梱している利用規約と同じ内容です。テキストファイル：[日本語](../assets/terms/PDFReader-Terms-ja.txt)・[English](../assets/terms/PDFReader-Terms-en.txt)・[中文](../assets/terms/PDFReader-Terms-zh.txt)・[한국어](../assets/terms/PDFReader-Terms-ko.txt)
-
-中国大陸に住所を有する方は、中国語版が正本です（第 9 項）。
+﻿# PDFReader 利用規約
 
 ## 1. 利用できる範囲
 
