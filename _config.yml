@@ -1,0 +1,16 @@
+title: PDFReader
+description: VRChatワールド用PDFリーダー / PDF reader for VRChat worlds
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+color_scheme: light
+search_enabled: true
+aux_links:
+  "BOOTH":
+    - "https://ruoyolab.booth.pm/items/8894960"
+aux_links_new_tab: true
+footer_content: "PDFReader for VRChat · ルヨラボ"
+exclude:
+  - README.md
+url: "https://ruoyuyo55.github.io"
+baseurl: "/PDFReader"
