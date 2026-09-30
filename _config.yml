@@ -12,5 +12,5 @@ aux_links_new_tab: true
 footer_content: "PDFReader for VRChat · ルヨラボ"
 exclude:
   - README.md
-url: "https://ruoyuyo55.github.io"
+url: "https://ruoyo55.github.io"
 baseurl: "/PDFReader"
