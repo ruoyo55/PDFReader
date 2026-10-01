@@ -16,7 +16,7 @@ The characters needed for document titles and contents are added to the reader f
 
 ## A bake failed
 
-The dialog shows the reason and where the log was saved. Click **Copy log** and send it through the BOOTH shop message.
+The dialog shows the reason and where the log was saved. Click **Create report** in the window to pack the logs into a zip, and email it to ruoyuyo55@gmail.com (recommended). You can also contact us through the BOOTH shop message.
 
 ## The window says there are several readers
 
