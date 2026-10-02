@@ -35,3 +35,9 @@ The **Documents** section of the PDFs tab lists the PDFs in your world.
 After baking you may see "Some pages were kept as images". Those pages are readable, but their text is less sharp when zoomed in. The log lists the reason for each page.
 
 Do not delete files in `Assets/PDFReader/Generated` or `Shared` by hand. Remove documents from this window instead.
+
+## Check the display before uploading
+
+Bake time and rendering load depend on the number of pages and the content of the PDF.
+
+Unusual PDFs may display differently from the original. Check the added PDFs in the reader before uploading the world. If something looks different, see the [FAQ](faq.html#a-page-looks-different-from-the-original-pdf).

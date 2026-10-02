@@ -22,6 +22,10 @@ The dialog shows the reason and where the log was saved. Click **Create report**
 
 Use one reader per world. Keep one and delete the others.
 
+## A page looks different from the original PDF
+
+Please email the PDF to ruoyuyo55@gmail.com and we will look into the cause. If you cannot send the PDF, a screenshot of the page is also fine.
+
 ## Can I use scanned PDFs?
 
 Yes. Each page is an image, so sharpness when zoomed depends on the scan resolution, and the world tends to get larger. If you have the original document, a PDF exported from it works better.
