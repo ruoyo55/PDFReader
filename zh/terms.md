@@ -1,4 +1,12 @@
-﻿# PDFReader 使用条款
+---
+title: 使用条款
+parent: 简体中文
+nav_order: 7
+---
+
+# 使用条款
+
+与产品附带的使用条款内容相同。文本文件：[日本語](../assets/terms/PDFReader-Terms-ja.txt) · [English](../assets/terms/PDFReader-Terms-en.txt) · [中文](../assets/terms/PDFReader-Terms-zh.txt) · [한국어](../assets/terms/PDFReader-Terms-ko.txt)
 
 住所在中国大陆的用户以本中文版为准；其他用户以日文版为正本，本中文版仅供参考（见第 9 条）。
 

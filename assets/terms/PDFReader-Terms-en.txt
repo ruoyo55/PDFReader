@@ -68,7 +68,7 @@ Retain the copyright notices, license texts, and other notices required by each 
 
 ## 7. Support and disclaimers
 
-Questions about use and bug reports can be sent to the author through the messaging feature of the BOOTH shop selling PDFReader (ルヨラボ). Please include your setup, the steps that led to the problem, and helpful screenshots or logs.
+Questions about use and bug reports can be sent to the author by email (ruoyuyo55@gmail.com). You can also contact the author through the messaging feature of the BOOTH shop selling PDFReader (ルヨラボ). Please include your setup, the steps that led to the problem, and helpful screenshots or logs.
 
 Support covers the environments and features stated on the product page. Converted PDFs may differ from the original display, and complete reproduction cannot be guaranteed. Correct operation of user-modified versions or combinations with arbitrary third-party assets cannot be guaranteed, nor can compatibility with every future Unity or VRChat version. The author will assess fixes and updates according to the issue.
 

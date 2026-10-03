@@ -1,4 +1,12 @@
-﻿# PDFReader 이용약관
+---
+title: 이용약관
+parent: 한국어
+nav_order: 7
+---
+
+# 이용약관
+
+제품에 포함된 이용약관과 같은 내용입니다. 텍스트 파일: [日本語](../assets/terms/PDFReader-Terms-ja.txt) · [English](../assets/terms/PDFReader-Terms-en.txt) · [中文](../assets/terms/PDFReader-Terms-zh.txt) · [한국어](../assets/terms/PDFReader-Terms-ko.txt)
 
 이 한국어판은 참고용 번역본입니다. 정본은 제9조에 따라 정해집니다.
 
